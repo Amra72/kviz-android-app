@@ -1,0 +1,25 @@
+{
+  "name": "rma26-kviz-backend",
+  "version": "1.0.0",
+  "description": "Self-contained Node.js backend for the RMA26 Android Kotlin Compose quiz assignment.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "reset": "node server.js --reset",
+    "smoke": "node scripts/smoke-test.js"
+  },
+  "keywords": [
+    "rma",
+    "quiz",
+    "backend",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
