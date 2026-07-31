@@ -1,10 +1,11 @@
-Kviz Android Aplikacija
+# Kviz Android Aplikacija
 
-Mobilna aplikacija za rješavanje kvizova rađena u sklopu predmeta Razvoj mobilnih aplikacija (RMA) na ETF-u.
+## Opis projekta
+Mobilna aplikacija za rješavanje kvizova rađena u sklopu predmeta Razvoj mobilnih aplikacija na Elektrotehničkom fakultetu. Aplikacija omogućava korisnicima testiranje znanja kroz interaktivna pitanja, praćenje rezultata i pregled tačnih odgovora.
 
-Tehnologije: *Kotlin
-*Android Studio
+## Tehnologije
+* Programski jezik: Kotlin
+* Razvojno okruženje: Android Studio
+* Arhitektura: MVVM 
+* Baza podataka: Room / SQLite 
 
-Funkcionalnosti:
-*Prikaz i rješavanje pitanja
-*Bodovanje i praćenje rezultata
